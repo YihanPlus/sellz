@@ -3,10 +3,11 @@
 This is a web application for online sellers to List, Create, Update, and Delete products. Consists of a web based front-end that communicates with back-end restful endpoints and stores information in a database. 
 
 ## ERD
-![alt text](https://ibb.co/tX3r97N)
+
+![Assignment ERD - Page 1](https://user-images.githubusercontent.com/73251017/140905260-58a99fdc-05a9-4e8e-afb1-cbdff4974758.png)
 
 ## User Flow
-![alt text](https://ibb.co/wcBDbk1)
+![Sellozo -  User Flow](https://user-images.githubusercontent.com/73251017/140905309-0544c682-d2d7-453b-b831-4a400235d13b.png)
 
 ## Completed Functionalities
 
