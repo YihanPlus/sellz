@@ -3,10 +3,10 @@
 This is a web application for online sellers to List, Create, Update, and Delete products. Consists of a web based front-end that communicates with back-end restful endpoints and stores information in a database. 
 
 ## ERD
-![alt text](https://drive.google.com/file/d/1vzqUGPrHHGhFTWgS3-xSuDAg4Q6LpizO/view?usp=sharing)
+![alt text](https://ibb.co/tX3r97N)
 
 ## User Flow
-![alt text](https://drive.google.com/file/d/1RlyzOfiPOq4_2aph8i-WYcnl133gdeVz/view?usp=sharing)
+![alt text](https://ibb.co/wcBDbk1)
 
 ## Completed Functionalities
 
