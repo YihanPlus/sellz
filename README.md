@@ -1,6 +1,6 @@
 # An Web Application For Online Sellers
 
-This is a web application for online sellers to List, Create, Update, and Delete products. Consists of a web based front-end that communicates with back-end restful endpoints and stores information in a database. 
+This is a web application for online sellers to List, Create, Update, and Delete products. Consists of a web based front-end that communicates with back-end restful endpoints and stores information in a database. Front-end and back-end were developed seperately, you can find back-end in the main branch and front-end in the front-end branch.
 
 ## ERD
 
